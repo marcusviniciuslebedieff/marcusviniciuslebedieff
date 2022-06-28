@@ -6,7 +6,7 @@ sobre mim
 - 👋  ola meu nome e @marcusviniciuslebedieff
 - 👀 eu estou interresado em aprender a progamar novas linguaguem
 - eu estou aprendendo a promagar recentemente a linguagem de javascript e screcth
-- meu gmail de contato e marcus.lebedieff@eescola.pr.gov.br
+- :+1:meu gmail de contato e marcus.lebedieff@eescola.pr.gov.br
 - ..
 
 <!---
